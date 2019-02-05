@@ -6,7 +6,7 @@ You can find more details on join-calculus in general and on this library in par
 
 This join-calculus library allows C# programmers to try out join-calculus and investigate its potential in the real world.
 
-Have a look at the [Getting started](Getting-started) page
+Have a look at the wiki for more details.
 
 This library supports the following features:
 *    multiple synchronous channels can be defined in a chord
